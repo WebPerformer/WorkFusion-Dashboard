@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # WorkFusion Dashboard
 
 **WorkFusion Dashboard** is an integrated platform that offers a comprehensive solution for companies to manage their projects and collaborate efficiently. This open-source project serves as a central hub, allowing the development of various internal applications, such as project management, voice and video chat, file sharing, meeting scheduling, and more, all fully integrated with each other.
