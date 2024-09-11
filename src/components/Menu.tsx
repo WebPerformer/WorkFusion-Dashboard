@@ -6,7 +6,7 @@ import { ModeToggle } from '../components/DarkMode'
 const Menu = () => {
   return (
     <ul className="flex">
-      <Link href="/applications">
+      <Link href="/overview">
         <Button variant="ghost" className="text-foreground">
           Applications
         </Button>
