@@ -15,8 +15,12 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang="en">
-      <body className={cn(GeistSans.className, 'text-sm smoothed')}>
+    <html
+      className={cn(GeistSans.className, 'smoothed')}
+      lang="en"
+      suppressHydrationWarning
+    >
+      <body>
         <ThemeProvider
           attribute="class"
           defaultTheme="system"
